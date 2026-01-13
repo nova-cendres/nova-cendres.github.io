@@ -1,0 +1,16 @@
+---
+layout: post
+title: Entrez
+date:   2018-08-23 16:05:55 +0300
+image:  novacendres.jpg
+tags:   [Lifehacks]
+---
+Nova Cendres. Un nom qui sonne comme une épitaphe. La cité est née en 1918, au sortir des décombres du monde, pour s'éteindre finalement dans le silence. Elle repose là, ceinturée par une brume et une forêt si dense qu’elle semble l'avoir retirée du monde, au milieu d'une campagne dont l'immensité finit par donner le vertige. Ne cherchez pas votre position sur un écran : ici, le GPS s'efface et les cartes deviennent muettes, laissant la ville s’enfoncer dans l'anonymat éternel.
+
+Aujourd'hui, Nova Cendres n'est plus qu'une ville de ruines et de poussière. Depuis l’incendie de 1986, le temps s'y est arrêté. Il n'y a plus de quotidien, plus de fenêtres éclairées, seulement des rues désertes où le vent semble être le seul à connaître le chemin. Entre les quartiers qui semblent encore attendre leurs habitants et la zone calcinée par les flammes, la ville n'est plus qu'une cicatrice que personne n'a jamais refermée. C’est dans ce silence pétrifié que les égarés trouvent parfois un abri de fortune pour passer la nuit.
+
+![]({{site.baseurl}}/img/villedetruite.jpg)
+
+On dit beaucoup de choses sur ces ruines. Certaines légendes sont des mensonges pour effrayer les curieux, d’autres sont des vérités que l'on n'ose murmurer qu'à voix basse. Car à Nova Cendres, on n'est jamais vraiment seul.
+
+Voyageur, marchez avec prudence. Ici, on ne traverse pas seulement une rue, on marche sur les cendres d'un passé oublié, et parfois, le passé vous regarde en retour.
