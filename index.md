@@ -5,7 +5,6 @@ header:
   overlay_image: https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop
   overlay_filter: 0.6
 excerpt: "L'Humain n'est qu'une variable. Optimisons-la."
----
 
 feature_row:
   - image_path: https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=500&auto=format&fit=crop
